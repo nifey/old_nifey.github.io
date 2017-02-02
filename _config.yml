@@ -1,0 +1,17 @@
+title: Nihaal
+email: nifey123@gmail.com
+description: > # I am Abdun Nihaal. A college student studying computer science engineering.
+  I am an aspiring open source software developer. I love linux. And I am learning Rust.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nifey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Nihaal_an
+github_username:  nifey
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
