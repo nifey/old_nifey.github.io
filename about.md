@@ -9,5 +9,4 @@ I am Abdun Nihaal. A college student studying computer science engineering. I am
 
 I will use this blog to share my experiences and thoughts on open source software and random things related to computers.
 
-{% include icon-github.html %} /
-[nifey](https://github.com/nifey)
+{% include icon-github.html %} [nifey](https://github.com/nifey)
