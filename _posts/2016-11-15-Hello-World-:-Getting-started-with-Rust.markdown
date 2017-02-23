@@ -7,6 +7,7 @@ categories: Rust
 ## The Rust programming language
 
 Rust is a system programming language that focusses on three aspects: Speed, Safety and Concurrency. It is being developed by an active community of programmers. Its development is officially sponsored by Mozilla.
+
 ### Installing rust
 
 First, we have to install the rust compiler which is called **rustc** and **cargo** ,rust's package manager. I recommend installing rustc and cargo using rustup. Why rustup? Before answering that I have to mention that rustc comes in three versions : Stable , Beta and Nightly.
@@ -24,7 +25,8 @@ In linux , type in
 where $HOME/.cargo/bin is the default cargo directory.
 
 After installing , type in rustc and cargo in the terminal or command prompt. If it prints unknown command , you probably have not installed it properly.
-Writing rust code
+
+### Writing rust code
 
 To write rust code , you can use an ordinary text editor or you can install bindings for popular IDEs. I'll have links to that below.
 
@@ -52,6 +54,7 @@ This will create an executable in the debug folder. To run this program type in
 ```cargo run```
 
 If you see Hello World printed on the screen then you have just executed your first rust program.
+
 ### External links
 
 The official rust website : [www.rust-lang.org](www.rust-lang.org)
