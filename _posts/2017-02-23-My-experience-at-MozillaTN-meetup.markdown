@@ -5,7 +5,7 @@ date:   2017-02-23 20:51:38 +0530
 categories:
 ---
 
-In this blog post, I am writing about my experience in participating in the MozillaTN community meetup held at Coimbatore this January.
+In this blog post, I am writing about my experience participating in the MozillaTN community meetup held at Coimbatore this January.
 
 Mozilla is a global community of passionate people working to protect the web as an open resource. I was always interested in Mozilla for 2 reasons. First, Mozilla is one of the pioneers of the **open source** movement. As far as I remember, Mozilla Firefox was the first open source software I have ever used. Second, Mozilla and Mozillians believe that **the Web is for everyone**. They care about privacy and web literacy.
 
