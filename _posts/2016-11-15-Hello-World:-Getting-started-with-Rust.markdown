@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World : Getting started with Rust"
+title:  "Hello World: Getting started with Rust"
 date:   2016-11-15 17:50:37 +0530
 categories: Rust
 ---
