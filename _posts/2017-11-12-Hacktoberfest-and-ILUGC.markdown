@@ -5,7 +5,7 @@ date: 2017-11-12 13:28:37 +0530
 categories:
 ---
 
-![Hacktoberfest](../../../assets/hacktoberfest.png "Hactoberfest")
+![Hacktoberfest](../../../assets/hacktoberfest/hacktoberfest.png "Hactoberfest")
 
 In this post, I want to share what I did for [Hacktoberfest](https://hacktoberfest.digitalocean.com).
 
@@ -45,7 +45,7 @@ This could allow people with no programming knowledge to translate strings. I ap
 
 After the meetup, I took a look at the source code of the telegram bot. I didn't know a lot of python, but thanks to the readability of python, I was able to understand the program. I made a few changes to the source code. The changes were small. I fixed a spelling mistake in a word and added some information about other chat commands in the help message.
 
-![Hacktoberfest Stats](../../../assets/hacktoberfeststats.png "Hactoberfest Stats")
+![Hacktoberfest Stats](../../../assets/hacktoberfest/hacktoberfeststats.png "Hactoberfest Stats")
 
 At the end of the month, I have done 6 pull requests in two projects. All of them got merged.
 I learned to use a few important git commands like git rebase, git log and a few more commands. I am also learning to use Inkscape to create logos.

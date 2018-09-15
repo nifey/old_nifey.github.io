@@ -5,7 +5,7 @@ date:   2017-10-20 20:52:38 +0530
 categories: 
 ---
 
-![Lost in the woods](../../../assets/js13kfinal.png "Lost in the woods")
+![Lost in the woods](../../../assets/js13k/js13kfinal.png "Lost in the woods")
 
 In this blog post, I want to share my experience participating in the [JS13Kgames](http://js13kgames.com) game jam. 
 
@@ -33,17 +33,17 @@ Here is the [link](https://gamedevelopment.tutsplus.com/tutorials/generate-rando
 
 At this point, I used squares on canvas to visualise the levels. The levels generated usually have more than one pocket of empty space. But this is undesirable because if the two players get placed in different spaces then they will never meet. So I had to add code to perform flood fill algorithm to check if the level generated has only one big space.
 
-![level Generation](../../../assets/js13kproclevelgen.png "A procedurally generated level")
+![level Generation](../../../assets/js13k/js13kproclevelgen.png "A procedurally generated level")
 
 ### 2 : Adding players 
 After the level has been generated, The players have to be placed. The positions of the players have to be selected in random and also should not be too close to each other. Now, I created two canvas elements and displayed a small area around each player in different canvases. I added keyboard event handling to move the players across the map. If the players meet, the game ends.
 
-![Added players](../../../assets/js13kplayers.png "Adding players")
+![Added players](../../../assets/js13k/js13kplayers.png "Adding players")
 
 ### 3 : Adding graphics
 The basic gameplay was done. So now, I had to add some graphics. I searched for art on the OpenGameArt website but I couldn't find a suitable set of tiles. So I decided to make my own graphics using GIMP. I am not a great artist, but we all have to start somewhere. I made tiles for the trees, grass and the player. Later, I also added a bush tile.
 
-![Added graphics](../../../assets/js13kgraphics.png "Finally some graphics")
+![Added graphics](../../../assets/js13k/js13kgraphics.png "Finally some graphics")
 
 After playing the game for a couple of times, I felt that the game needs enemy characters. So I drew a tree with a face and called them tree monsters. These tree monsters will be the enemy characters. Whenever a player dashes into a tree monster, the players lose. The game adds a number of tree monsters on the map and moves them randomly. 
 
@@ -51,7 +51,7 @@ I added a transparent circular gradient to each of the canvas to make it look li
 ### 4 : Adding an intro page
 
 Finally, I made a div element that displays the game instruction and the keyboard controls.
-![Added an intro page](../../../assets/js13kstartpage.png "Game instructions")
+![Added an intro page](../../../assets/js13k/js13kstartpage.png "Game instructions")
 
 ## What went right
 * I used **version control**. I had no intention of writing a post-mortem when I started making this game. But thanks to git, I was able to take the screenshots of the game at different commits.

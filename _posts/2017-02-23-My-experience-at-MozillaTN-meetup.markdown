@@ -43,7 +43,7 @@ He explained what makes Rust special. We discussed problems present in other sys
 
 He is working on an open project called [DeepRust](https://github.com/dvigneshwer/deeprust) which is a Deep learning crate for rust.
 
-![Rust Team at work](../../../assets/rustteamatwork.jpg "Rust team at work")
+![Rust Team at work](../../../assets/mozillatn/rustteamatwork.jpg "Rust team at work")
 
 Rust aims to be a fast, safe and concurrent language. But it has a slightly steep learning curve. To help people to get started with Rust, We took up the task of creating a quick start kit which will be used to evangelise in Rust events in the future. We also feel the need to create localised tutorials for Rust.
 
@@ -59,7 +59,7 @@ Finally, Mr.Viswaprasath ended the event with a vote of thanks. He recalled his 
 
 Then we took some group photos together.
 
-![Mozillians!!](../../../assets/tnmozillians.jpg "Mozillians!!")
+![Mozillians!!](../../../assets/mozillatn/tnmozillians.jpg "Mozillians!!")
 
 The most awesome thing about this meet was the people. Friendly, passionate people striving for Mozilla's cause. This included students from colleges all over Tamilnadu and a small number of professionals.
 I learnt a lot in those two days. Moreover, the experience itself has kickstarted this year.
